@@ -1,27 +1,26 @@
-<h1 align="center">Hi 👋, I'm Ravi Datta Rachuri</h1>
-<h3 align="center"> Data Analyst | 3.5+ Years | Data Analysis, Big Data, Machine Learning, Deep Learning, Generative AI | I love exploring and playing with data to uncover insights and drive innovation</h3>
+<h1 align="center">Hi! Welcome to my Github. </h1>
+<h3 align="center"> Computer Science| Python & Web Developer| AWS  | Data Analyser| Machine Learning Enthusiast</h3>
 
 - 🔭 I’m currently working on [Agentic-AI-Powered-Dashboards-for-Real-Time-Cybersecurity-Monitoring<be>](https://github.com/Ravi-datta/Agentic-AI-Powered-Dashboards-for-Real-Time-Cybersecurity-Monitoring)
 
-- 🌱 I’m currently learning **Agentic AI**
+- 🌱 I’m currently learning **Amazon Web Services**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ravi-datta](https://github.com/Ravi-datta)
+- 👨‍💻 All of my projects are available at [https://github.com/Jagadev-Veeranki](https://github.com/Jagadev-Veeranki)
 
-- 💬 Ask me about **Data Analysis, Data Science, Big Data, Machine Learning, Deep Learning, Agentic AI**
+- 💬 Ask me about **Python, Machine Learning, AWS, Deep Learning, Web Development**
 
-- 📫 How to reach me **jobs.ravidatta@gmail.com**
+- 📫 How to reach me **jagadev.veeranki@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravi-datta-rachuri/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ravidatta.rachuri) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29554077/ravi-datta-rachuri) [![Tableau](https://img.shields.io/badge/Tableau-1F4B99?logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/ravi.datta.rachuri/vizzes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jagadev-veeranki/) 
 
-# 💻 Tech Stack:
+💻 Tech Stack:
 
-### Programming Languages:
+### Programming Languages & Skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF5733?style=for-the-badge&logo=data-structures&logoColor=white)
@@ -67,23 +66,8 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### AI and LLMs:
-![Gen AI](https://img.shields.io/badge/Gen%20AI-FF69B4?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
-![Llama3](https://img.shields.io/badge/Llama3-1E90FF?style=for-the-badge&logo=llama&logoColor=white)
-![GPT-4.0](https://img.shields.io/badge/GPT--4.0-8A2BE2?style=for-the-badge&logo=OpenAI&logoColor=white)
-![Gemini Pro](https://img.shields.io/badge/Gemini%20Pro-FF4500?style=for-the-badge&logo=constellation&logoColor=white)
-![Gemma 2](https://img.shields.io/badge/Gemma%202-FFD700?style=for-the-badge&logo=gem&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-00CED1?style=for-the-badge&logo=weather&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFB6C1?style=for-the-badge&logo=hugging-face&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-32CD32?style=for-the-badge&logo=chain&logoColor=white)
-![Groq API](https://img.shields.io/badge/Groq%20API-000080?style=for-the-badge&logo=api&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6347?style=for-the-badge&logo=graphql&logoColor=white)
-![Lamini AI](https://img.shields.io/badge/Lamini%20AI-008080?style=for-the-badge&logo=ai&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ravi-datta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ravi-datta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-datta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
