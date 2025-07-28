@@ -1,5 +1,5 @@
 <h1 align="center">Hi! Welcome to my Github. </h1>
-<h3 align="center"> Computer Science| Python & Web Developer| AWS  | Data Analyser| Machine Learning Enthusiast</h3>
+<h3 align="center"> Computer Science| Python & Web Developer | AWS  | Data Analyst | Machine Learning Enthusiast</h3>
 
 - 🔭 I’m currently working on [<be>](https://github.com/)
 
